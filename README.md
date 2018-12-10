@@ -1,4 +1,5 @@
-Problem Statement
+Problem Statement:
+
 Given a building plan, decide where to put wireless routers and how to connect them to the fiber backbone to maximize coverage and minimize cost. 
 Building 
 The building is represented as a rectangular grid of cells of H rows and W columns. The cells within the grid are referenced using a pair of 0-based coordinates [r, c] , denoting respectively the row and the column of the cell. 
