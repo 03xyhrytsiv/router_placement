@@ -62,8 +62,3 @@ if __name__ == "__main__":
     print(main())
     finish = default_timer()
     time = round(finish - start, 8)
-    with open("submission.txt", "w") as file:
-        file_name = ""  # SHOULD BE ENTERED FILE NAME
-        backbone = get_params(file_name)["b_coordinates"]
-        file.write("Backbone coordinates" + backbone)
-        file.
