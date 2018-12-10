@@ -25,6 +25,7 @@ Algorithms for placing routers
 
 1. Picky bore
 
+
 1.1. General idea
 
 This algorithm belongs to the family of algorithms, which use selection, since it goes through the whole map and stores coverage area for each variant of router placement, and then chooses the best one.
@@ -53,32 +54,51 @@ Scores
 
 1. The Charleston road
 
+
 Algorithm	Score
+
 Picky bore 	21100657
+
 Greedy lazybones	20839862
+
 
 
 2. Opera
 
+
 Algorithm	Score
+
 Picky bore 	199394735
+
 Greedy lazybones	191983362
+
 
 3. Rue de Londres
 
+
 Algorithm	Score
+
 Picky bore 	65187137
+
 Greedy lazybones	63876614
+
 
 4. Let`s go higher
 
+
 Algorithm	Score
+
 Picky bore 	260137641
+
 Greedy lazybones	256334142
 
 
 Total score
 
+
 Algorithm	Score
+
 Picky bore 	545820170
+
 Greedy lazybones	533033980
+
